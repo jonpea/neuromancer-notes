@@ -1,0 +1,20 @@
+ecos
+cvxpy
+cvxpylayers
+ipython
+ipykernel
+jupytext
+lightning
+matplotlib
+neuromancer
+numpy
+ruff
+scipy
+scs
+
+#
+# You'll need to do this manually: pip uninstall -y torch 
+# I've recorded it here just as a reminder of the requirements.
+#
+# --index-url https://download.pytorch.org/whl/cu128
+torch
